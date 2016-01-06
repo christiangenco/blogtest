@@ -13,8 +13,3 @@ class ExampleJob < ActiveJob::Base
     puts "slept 5 seconds"
   end
 end
-
-
-class Rofl
-
-end
